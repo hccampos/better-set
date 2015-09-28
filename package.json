@@ -1,0 +1,26 @@
+{
+  "name": "better-set",
+  "version": "1.0.0",
+  "description": "A new set class that extends the native ES6 Set to include methods like union, difference, filter, map and others.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hccampos/better-set.git"
+  },
+  "keywords": [
+    "es6",
+    "set",
+    "collection",
+    "ecmascript2015",
+    "es2015"
+  ],
+  "author": "Hugo Campos <hcfields@gmail.com> (http://www.hccampos.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hccampos/better-set/issues"
+  },
+  "homepage": "https://github.com/hccampos/better-set#readme"
+}
