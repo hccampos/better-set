@@ -55,7 +55,7 @@
   },
   "babelBoilerplateOptions": {
     "entryFileName": "better-set",
-    "mainVarName": "betterSet",
+    "mainVarName": "BetterSet",
     "mochaGlobals": [
       "stub",
       "spy",

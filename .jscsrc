@@ -1,5 +1,11 @@
 {
-  "preset": "google",
-  "maximumLineLength": null,
-  "esnext": true
+    "preset": "crockford",
+    "maximumLineLength": null,
+    "esnext": true,
+    "requireMultipleVarDecl": "onevar",
+    "requireVarDeclFirst": false,
+    "disallowDanglingUnderscores": false,
+    "requireSpacesInAnonymousFunctionExpression": {
+        "beforeOpeningCurlyBrace": true
+    }
 }
